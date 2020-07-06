@@ -1233,6 +1233,39 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
+.cid-s3Sf5Kb1At {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s3Sf5Kb1At h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s3Sf5Kb1At p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s3Sf5Kb1At .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s3Sf5Kb1At .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s3Sf5Kb1At .mbr-text {
+  color: #767676;
+}
+.cid-s3Sf5Kb1At .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s3Sf5Kb1At .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
 .cid-s0F5FQ6Vng {
   padding-top: 0px;
   padding-bottom: 0px;
